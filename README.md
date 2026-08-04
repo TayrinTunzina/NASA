@@ -1,7 +1,7 @@
 # 🌌 Celestial Chronicles
 ### NASA Space Apps Challenge Project
 
-Welcome to **Celestial Chronicles**, an interactive space education platform developed for the **NASA Space Apps Challenge**.
+Welcome to **Celestial Chronicles**, an interactive space education platform developed for the **[NASA Space Apps Challenge](https://www.spaceappschallenge.org/about/)**.
 
 The project combines storytelling, 3D galaxy exploration, educational content, and multiplayer mini-games to create an engaging way for users to learn about space, exoplanets, and astronomical concepts.
 
@@ -25,18 +25,24 @@ The project includes:
 
 ![](images/3D_exploration.png)
 
+<br>
+
 - 📖 **Interactive Story Chapters**  
   Educational chapters that introduce space concepts, including exoplanets and astronomical discoveries, through storytelling.
   
 <p align="center">
-  <img src="images/story_games.png" width="45%">
-  <img src="images/stories.png" width="45%">
+  <img src="images/story_games.png" width="40%">
+  <img src="images/stories.png" width="50%">
 </p>
+
+<br>
 
 - 🎮 **Multiplayer Shooting Mini-Game**  
   A competitive quiz-based shooting game where two players answer multiple-choice questions. The player who answers correctly and faster can shoot the opponent and earn points.
 
 ![](images/shooting_game.png)
+
+<br>
 
 - 🃏 **Flash Cards**  
   A learning feature that helps users revise and reinforce important space-related information.
