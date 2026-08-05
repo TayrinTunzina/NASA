@@ -149,3 +149,9 @@ This project was created as part of the **NASA Space Apps Challenge 2024**, an i
 ## 👥 Team
 
 Developed as part of the NASA Space Apps Challenge by Team AstroNova.
+
+---
+
+Copyright (c) 2026 Tayrin Tunzina
+
+This project is licensed under the MIT License.
