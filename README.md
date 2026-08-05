@@ -32,7 +32,7 @@ The project includes:
   
 <p align="center">
   <img src="images/story_games.png" width="40%">
-  <img src="images/stories.png" width="50%">
+  <img src="images/stories.png" width="55%">
 </p>
 
 <br>
